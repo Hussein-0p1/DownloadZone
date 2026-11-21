@@ -1,3 +1,16 @@
+
+# 🚀 DownloadZone
+
+### Browse Smarter. Download Faster. Take Control.
+
+**Advanced Android Download Manager & Browser**
+
+[![Download APK](https://img.shields.io/badge/Download-Latest_APK-1976D2?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Hussein-0p1/DZM-Android-/releases/latest)
+
+[📥 Direct APK Download](https://github.com/Hussein-0p1/DZM-Android-/releases/download/v1.4.5/DownloadZone-1.4.5-release.apk) | [📋 All Releases](https://github.com/Hussein-0p1/DZM-Android-/releases)
+
+---
+
 🚀 DownloadZone v1.4.5
 
 Browse Smarter. Download Faster. Take Control.
